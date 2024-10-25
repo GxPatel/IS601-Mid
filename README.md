@@ -60,8 +60,8 @@ Pandas is used to handle user input as a **Series** and perform numerical operat
 The numbers are converted into a Pandas Series, and the division operation is performed across the series. This allows handling more complex input scenarios efficiently.
 
 ---
-
-This project demonstrates the application of professional practices in software development, ensuring maintainable, robust, and scalable code.
+## Coverage
+![image](https://github.com/user-attachments/assets/10e7be97-2685-47a3-bca8-4dacd6de558a)
 
 --- 
 
